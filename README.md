@@ -1,4 +1,4 @@
-# yanfaokta-portfolio
+# yanfaokta.github.io
 This is my second Portfolio Website inspired from another Github user.
 
 Using particle.js and typed.js
